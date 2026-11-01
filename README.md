@@ -59,6 +59,9 @@ The SQL script contains view definitions and inspection queries. The `results/` 
 
 The script contains an early draft and a later validated `v2` transaction-cleaning path. The later path uses `SAFE_CAST(`Customer ID` AS INT64)` in the filter; the early draft uses a string literal in the cast/filter expression and should not be treated as the final validated query.
 
-## Author
 
-Sai Datta Putta
+---
+
+**Sai Datta Putta**
+
+[LinkedIn](https://www.linkedin.com/in/sai-datta-putta/)
